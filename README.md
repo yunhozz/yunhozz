@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/badge/SPRING-green?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/SPRING BOOT-brightgreen?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/SPRING DATA JPA-critical?style=for-the-badge&logo=jpa&logoColor=white">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/MYSQL-blueviolet?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-lightgrey?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181769?style=for-the-badge&logo=github&logoColor=white">
