@@ -20,13 +20,6 @@
 </p>
 <br>
 
-<h3 align="center">🌈 Languages 🌈</h3>
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunhozz)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<br>
-
 <h3 align="center">👩‍💻 Github Stats 👩‍💻</h3>
 <div align="center">
 
